@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [creating](creating)
+- 👨‍💻 2nd year BCA Student
 
 - 📫 How to reach me **m.sudhar007@gmail.com**
 
