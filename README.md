@@ -58,11 +58,9 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sudharsan31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sudharsan31" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudharsan3110&show_icons=true&locale=en&layout=compact" alt="sudharsan3110" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudharsan3110&show_icons=true&locale=en" alt="sudharsan3110" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsan3110&" alt="sudharsan3110" /></p>
+  <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=codercake&show_icons=true&count_private=true&theme=darcula&hide_border=true&count=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=codercake&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=codercake&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
