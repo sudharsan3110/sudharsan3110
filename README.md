@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 2nd year BCA Student
+- Software Engineer 
 
 - 📫 How to reach me **m.sudhar007@gmail.com**
 
