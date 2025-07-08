@@ -5,9 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **React**
-
-- Software Engineer 
 
 - 📫 How to reach me **m.sudhar007@gmail.com**
 
